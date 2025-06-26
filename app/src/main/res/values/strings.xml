@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Example application</string>
+
+    <string name="screen.home">Home screen</string>
+    <string name="screen.detail">Detail screen</string>
+
+    <string name="error.network.title">Network issue</string>
+    <string name="error.network.message">It seems that you are not connected to the internet.</string>
+    <string name="error.general.title">Something went wrong</string>
+    <string name="error.general.message">Something happen! We are working on it already 🔎🐛</string>
+    <string name="action.search">Search</string>
+    <string name="action.retry">Retry</string>
+    <string name="action.close">Close</string>
+    <string name="label.tags">Tags</string>
+
+    <string name="cd.navigation.back">Navigation back</string>
+    <string name="cd.item.thumbnail">Item thumbnail</string>
+    <string name="cd.error.artwork">Error image artwork</string>
+    <string name="cd.image.detail">Image detail</string>
+    <string name="cd.dialog.icon">Dialog icon</string>
+</resources>
